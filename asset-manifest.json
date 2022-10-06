@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoreactappquinco/static/css/main.cb7f952c.css",
+    "main.js": "/todoreactappquinco/static/js/main.5c90c153.js",
+    "static/js/787.7ab45602.chunk.js": "/todoreactappquinco/static/js/787.7ab45602.chunk.js",
+    "index.html": "/todoreactappquinco/index.html",
+    "main.cb7f952c.css.map": "/todoreactappquinco/static/css/main.cb7f952c.css.map",
+    "main.5c90c153.js.map": "/todoreactappquinco/static/js/main.5c90c153.js.map",
+    "787.7ab45602.chunk.js.map": "/todoreactappquinco/static/js/787.7ab45602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7f952c.css",
+    "static/js/main.5c90c153.js"
+  ]
+}
